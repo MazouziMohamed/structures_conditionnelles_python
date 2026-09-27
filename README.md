@@ -1,6 +1,6 @@
 # Structures Conditionnelles en Python
 
-Ce dépôt rassemble les solutions de **13 exercices pratiques** axés sur la maîtrise des **structures conditionnelles** en Python et le développement de la logique algorithmique.
+Ce dépôt rassemble les solutions de **13 exercices pratiques** axés sur la maîtrise des **structures conditionnelles** en Python.
 
 ---
 
