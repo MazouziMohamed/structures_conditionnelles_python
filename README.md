@@ -15,19 +15,19 @@ Ce dépôt rassemble les solutions de **13 exercices pratiques** axés sur la ma
 
 ## Liste des Exercices
 
-1. **Calcul de TVA :** Détermination du prix TTC selon la catégorie de produit (`A=7%`, `B=20%`, `C=25%`).
-2. **Calculatrice Arithmétique :** Exécution d'opérations élémentaires avec contrôle de la division par zéro.
-3. **Parité d'un Nombre :** Vérification de la parité (pair ou impair).
-4. **Année Bissextile :** Validation calendaire selon les règles du calendrier grégorien.
-5. **Analyse ASCII :** Identification de la nature d'un caractère (alphabet, chiffre ou caractère spécial).
-6. **Déplacement 2D :** Simulation des mouvements d'un personnage (pavé numérique `2`, `4`, `6`, `8`).
-7. **Comparaison de Nombres :** Recherche du maximum et du minimum entre plusieurs valeurs.
-8. **Résolution d'Équation :** Résolution d'une équation du premier degré ($ax + b = 0$).
-9. **Intervalle d'un Nombre :** Vérification de l'appartenance d'une valeur à une plage donnée.
-10. **Catégorie d'Âge :** Classification d'un utilisateur selon son âge.
-11. **Signe d'un Produit :** Détermination du signe du produit de deux nombres sans effectuer la multiplication.
-12. **Gestion de Remise :** Calcul d'un prix final après application d'un taux de réduction sous conditions.
-13. **Validation de Date :** Vérification de la validité d'une date (jour, mois, année).
+1. **Signe de Deux Nombres :** Vérification si deux nombres entiers ont le même signe ou des signes contraires.
+2. **Échange ou Opération selon le Signe :** Échange des valeurs de deux variables si elles sont de même signe, sinon calcul de leur somme et produit.
+3. **Facturation de Photocopies :** Calcul du montant total selon une tarification dégressive par tranches (`0,30 DH`, `0,25 DH` et `0,20 DH`).
+4. **Catégorisation par Âge :** Classification d'un enfant selon son âge ("Poussin", "Pupille", "Minime", "Cadet").
+5. **Moyenne et Mention :** Calcul de la moyenne de trois notes et attribution de la mention correspondante.
+6. **Équation du Second Degré :** Résolution d'une équation $ax^2 + bx + c = 0$ via le calcul du discriminant ($\Delta$) et l'utilisation de `math.sqrt()`.
+7. **Calcul d'Imposabilité :** Détermination de l'assujettissement à l'impôt selon le sexe et la tranche d'âge.
+8. **Calcul de Prix TTC :** Application d'un taux de TVA selon la catégorie de produit (`A=7%`, `B=20%`, `C=25%`).
+9. **Calculatrice Arithmétique :** Exécution d'opérations élémentaires (`+`, `-`, `*`, `/`) avec contrôle de la division par zéro.
+10. **Déplacement 2D :** Simulation des mouvements d'un personnage via les touches du pavé numérique (`6`, `4`, `8`, `2`).
+11. **Parité d'un Nombre :** Vérification si un nombre entier est pair ou impair.
+12. **Année Bissextile :** Validation calendaire selon les règles du calendrier grégorien.
+13. **Analyse ASCII :** Identification de la nature d'un caractère (alphabet, chiffre ou caractère spécial) avec `ord()`.
 
 ---
 
