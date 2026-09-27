@@ -1,2 +1,39 @@
-# structures_conditionnelles_python
-Dans ce niveau, j'ai réalisé une série d'exercices pour développer mes compétences sur les instructions de base du langage Python.
+# Structures Conditionnelles en Python
+
+Ce dépôt rassemble les solutions de **8 exercices pratiques** axés sur la maîtrise des **structures conditionnelles** en Python et le développement de la logique algorithmique.
+
+---
+
+## Concepts couverts
+
+- **Contrôle de Flux :** Prise de décision avec `if`, `elif` et `else`.
+- **Opérateurs Logiques & Comparaisons :** Utilisation des opérateurs relationnels et logiques (`and`, `or`, `not`).
+- **Manipulation de Caractères :** Traitement et classification ASCII à l'aide de `ord()` et `chr()`.
+- **Validation & Cas Limites :** Gestion des conditions aux limites (ex. division par zéro, années bissextiles, calculs de taxes).
+
+---
+
+## Liste des Exercices
+
+1. **Calcul de TVA :** Détermination du prix TTC selon la catégorie de produit (`A=7%`, `B=20%`, `C=25%`).
+2. **Calculatrice Arithmétique :** Exécution d'opérations élémentaires avec contrôle de la division par zéro.
+3. **Parité d'un Nombre :** Vérification de la parité (pair ou impair).
+4. **Année Bissextile :** Validation calendaire selon les règles du calendrier grégorien.
+5. **Analyse ASCII :** Identification de la nature d'un caractère (alphabet, chiffre ou caractère spécial).
+6. **Déplacement 2D :** Simulation des mouvements d'un personnage (pavé numérique `2`, `4`, `6`, `8`).
+7. **Comparaison de Nombres :** Recherche du maximum et du minimum entre plusieurs valeurs.
+8. **Résolution d'Équation :** Résolution d'une équation du premier degré ($ax + b = 0$).
+
+---
+
+## Guide d'Exécution
+
+### Prérequis
+Python 3.10 ou une version supérieure.
+
+### Installation et Lancement
+
+1. Cloner le dépôt :
+   ```bash
+   git clone [https://github.com/MazouziMohamed/structures_conditionnelles_python.git](https://github.com/MazouziMohamed/structures_conditionnelles_python.git)
+   cd structures_conditionnelles_python
