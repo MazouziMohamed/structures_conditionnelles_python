@@ -9,7 +9,7 @@ Ce dépôt rassemble les solutions de **13 exercices pratiques** axés sur la ma
 * **Contrôle de Flux :** Prise de décision avec `if`, `elif` et `else`.
 * **Opérateurs Logiques & Comparaisons :** Utilisation des opérateurs relationnels et logiques (`and`, `or`, `not`).
 * **Manipulation de Caractères :** Traitement et classification ASCII à l'aide de `ord()` et `chr()`.
-* **Validation & Cas Limites :** Gestion des conditions aux limites (ex. division par zéro, années bissextiles, calculs de taxes).
+* **Validation & Cas Limites :** Gestion des conditions aux limites (ex. division par zéro, années bissextiles, calculs de taxes, .....).
 
 ---
 
