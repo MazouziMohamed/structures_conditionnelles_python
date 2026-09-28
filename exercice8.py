@@ -5,7 +5,7 @@ calcule le prix TTC d’un produit connaissant son prix hors taxe et sa catégor
 # la solution corrigée de l'exercice
 print('+' + '-'*10 + 'TVA-Catégorie' + '-'*10 + '+')
 print('A = 7% et B = 20% et C = 25%')
-print('-'*35)
+print('+' + '-'*34 + '+')
 tva = input('Veuillez entrer le tva (A ou B ou C) : ')
 prix_hors_taxe = float(input('Veuillez entrer le prix hors taxe : '))
 if tva == 'A' :
