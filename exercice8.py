@@ -3,10 +3,9 @@
 point de vue TVA : A=7%, B=20% et C=25%. Ecrivez un programme qui
 calcule le prix TTC d’un produit connaissant son prix hors taxe et sa catégorie. '''
 # la solution corrigée de l'exercice
-from rich import print
-from rich.align import Align
-print(Align.center('[bold red underline]TVA-Catégorie[/bold red underline]'))
-print(Align.center('A = 7% and B = 20% and C = 25%'))
+print('+' + '-'*10 + 'TVA-Catégorie' + '-'*10 + '+')
+print('A = 7% et B = 20% et C = 25%')
+print('-'*35)
 tva = input('Veuillez entrer le tva (A ou B ou C) : ')
 prix_hors_taxe = float(input('Veuillez entrer le prix hors taxe : '))
 if tva == 'A' :
@@ -18,4 +17,4 @@ elif tva == 'C' :
 else :
     print('Erreur de saisie, la catégorie n\'existe pas.')
     exit()
-print('[bold]Le prix TTC est :[/bold]', prix_ttc, '[bold cyan]DH[/bold cyan]')
+print('Le prix TTC est :', prix_ttc, 'DH')
