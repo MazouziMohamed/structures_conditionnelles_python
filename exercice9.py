@@ -3,15 +3,13 @@
 opérateurs suivant : +, -, *, / puis effectue l'opération correspond et
 affiche le résultat de cette opération. '''
 # la solution corrigée de l'exercice
-from rich import print
-from rich.align import Align
-print(Align.center('+-------------------[bold red]Opérateurs[/bold red]-------------------+'))
-print('[bold red]1 : Addition[/bold red]')
-print('[bold red]2 : Soustraction[/bold red]')
-print('[bold red]3 : Multiplication[/bold red]')
-print('[bold red]4 : Division[/bold red]')
-print('[bold red]Veuillez entrer votre choix (1 ou 2 ou 3 ou 4) :[/bold red] ', end = '')
-choix = int(input())
+print('+-------------------Opérateurs-------------------+')
+print('1 : Addition')
+print('2 : Soustraction')
+print('3 : Multiplication')
+print('4 : Division')
+print('+------------------------------------------------+')
+choix = int(input('Veuillez entrer votre choix (1 ou 2 ou 3 ou 4) : '))
 premier_entier = int(input('Veuillez entrer le premier entier : '))
 deuxieme_entier = int(input('Veuillez entrer le deuxième entier : '))
 if choix == 1 :
